@@ -382,7 +382,7 @@
 </html></richcontent>
 <node COLOR="#111111" CREATED="1441558190163" ID="ID_225362473" MODIFIED="1441561987221" STYLE="bubble" TEXT="Sistemas de radiocomunicaciones">
 <node COLOR="#111111" CREATED="1441561747482" ID="ID_527553728" MODIFIED="1441561987222" TEXT="Detecci&#xf3;n coherente">
-<node COLOR="#111111" CREATED="1441561789677" HGAP="49" ID="ID_4692447" MODIFIED="1441561987222" VSHIFT="-46">
+<node COLOR="#111111" CREATED="1441561789677" FOLDED="true" HGAP="49" ID="ID_4692447" MODIFIED="1441584445204" VSHIFT="-46">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -403,7 +403,7 @@
 </node>
 </node>
 <node COLOR="#111111" CREATED="1441561764177" ID="ID_1177457307" MODIFIED="1441561987227" TEXT="Detecci&#xf3;n no coherente">
-<node COLOR="#111111" CREATED="1441561789677" HGAP="25" ID="ID_791510372" MODIFIED="1441562192864" VSHIFT="44">
+<node COLOR="#111111" CREATED="1441561789677" FOLDED="true" HGAP="25" ID="ID_791510372" MODIFIED="1441584445206" VSHIFT="44">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -440,7 +440,7 @@
 </html></richcontent>
 <node COLOR="#111111" CREATED="1441558190163" ID="ID_848063826" MODIFIED="1441561987221" STYLE="bubble" TEXT="Sistemas de radiocomunicaciones">
 <node COLOR="#111111" CREATED="1441561747482" ID="ID_1821489086" MODIFIED="1441561987222" TEXT="Detecci&#xf3;n coherente">
-<node COLOR="#111111" CREATED="1441561789677" HGAP="49" ID="ID_1932207910" MODIFIED="1441561987222" VSHIFT="-46">
+<node COLOR="#111111" CREATED="1441561789677" FOLDED="true" HGAP="49" ID="ID_1932207910" MODIFIED="1441584445207" VSHIFT="-46">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -461,7 +461,7 @@
 </node>
 </node>
 <node COLOR="#111111" CREATED="1441561764177" ID="ID_1630071755" MODIFIED="1441561987227" TEXT="Detecci&#xf3;n no coherente">
-<node COLOR="#111111" CREATED="1441561789677" HGAP="25" ID="ID_1921997008" MODIFIED="1441562192864" VSHIFT="44">
+<node COLOR="#111111" CREATED="1441561789677" FOLDED="true" HGAP="25" ID="ID_1921997008" MODIFIED="1441584445208" VSHIFT="44">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -498,7 +498,7 @@
 </html></richcontent>
 <node COLOR="#111111" CREATED="1441558190163" ID="ID_990589875" MODIFIED="1441561987221" STYLE="bubble" TEXT="Sistemas de radiocomunicaciones">
 <node COLOR="#111111" CREATED="1441561747482" ID="ID_554949386" MODIFIED="1441561987222" TEXT="Detecci&#xf3;n coherente">
-<node COLOR="#111111" CREATED="1441561789677" HGAP="49" ID="ID_322852556" MODIFIED="1441561987222" VSHIFT="-46">
+<node COLOR="#111111" CREATED="1441561789677" FOLDED="true" HGAP="49" ID="ID_322852556" MODIFIED="1441584445209" VSHIFT="-46">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -519,7 +519,7 @@
 </node>
 </node>
 <node COLOR="#111111" CREATED="1441561764177" ID="ID_124128057" MODIFIED="1441561987227" TEXT="Detecci&#xf3;n no coherente">
-<node COLOR="#111111" CREATED="1441561789677" HGAP="25" ID="ID_1689953009" MODIFIED="1441562192864" VSHIFT="44">
+<node COLOR="#111111" CREATED="1441561789677" FOLDED="true" HGAP="25" ID="ID_1689953009" MODIFIED="1441584445210" VSHIFT="44">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -556,7 +556,7 @@
 </html></richcontent>
 <node COLOR="#111111" CREATED="1441558190163" ID="ID_1818763093" MODIFIED="1441561987221" STYLE="bubble" TEXT="Sistemas de radiocomunicaciones">
 <node COLOR="#111111" CREATED="1441561747482" ID="ID_557394204" MODIFIED="1441561987222" TEXT="Detecci&#xf3;n coherente">
-<node COLOR="#111111" CREATED="1441561789677" HGAP="49" ID="ID_395739931" MODIFIED="1441561987222" VSHIFT="-46">
+<node COLOR="#111111" CREATED="1441561789677" FOLDED="true" HGAP="49" ID="ID_395739931" MODIFIED="1441584445211" VSHIFT="-46">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -577,7 +577,7 @@
 </node>
 </node>
 <node COLOR="#111111" CREATED="1441561764177" ID="ID_635228993" MODIFIED="1441561987227" TEXT="Detecci&#xf3;n no coherente">
-<node COLOR="#111111" CREATED="1441561789677" HGAP="25" ID="ID_1662687906" MODIFIED="1441562192864" VSHIFT="44">
+<node COLOR="#111111" CREATED="1441561789677" FOLDED="true" HGAP="25" ID="ID_1662687906" MODIFIED="1441584445212" VSHIFT="44">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1952,7 +1952,40 @@
 </node>
 </node>
 </node>
-<node CREATED="1441581750989" ID="ID_1771550160" MODIFIED="1441581988332" TEXT="JERARQUIA SDH">
+<node CREATED="1441581750989" ID="ID_1771550160" MODIFIED="1441582167480" TEXT="JERARQUIA SDH">
+<node CREATED="1441582112770" ID="ID_581876989" MODIFIED="1441582309883">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Ventajas
+    </p>
+    <ul>
+      <li>
+        Altas velocidades de transmisi&#243;n
+      </li>
+      <li>
+        Funci&#243;n simplificada de inserci&#243;n y extracci&#243;n
+      </li>
+      <li>
+        Ampliaci&#243;n
+      </li>
+      <li>
+        Confiabilidad
+      </li>
+      <li>
+        Plataforma a prueba de futuro
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<icon BUILTIN="button_ok"/>
+<node CREATED="1441583978273" ID="ID_884300651" MODIFIED="1441583994300" TEXT="SONET ANSI USA"/>
+<node CREATED="1441583995311" ID="ID_496353317" MODIFIED="1441584113087" TEXT="SDH ITU EUROPA"/>
+</node>
 <node CREATED="1441581988281" ID="ID_783102312" MODIFIED="1441582028223">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1971,8 +2004,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1441581764106" ID="ID_1777196512" MODIFIED="1441581984804">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2040,6 +2072,16 @@
   </body>
 </html></richcontent>
 </node>
+</node>
+</node>
+<node CREATED="1441584230860" ID="ID_727477209" MODIFIED="1441584996793" TEXT="WDM">
+<node CREATED="1441584769714" ID="ID_127881075" MODIFIED="1441584791281" TEXT="transmitir informaci&#xf3;n por fibra &#xf3;ptica">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1441584998255" ID="ID_440191227" MODIFIED="1441585004697" TEXT=" DWM">
+<node CREATED="1441584769714" ID="ID_773928946" MODIFIED="1441584791281" TEXT="transmitir informaci&#xf3;n por fibra &#xf3;ptica">
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
 </node>
