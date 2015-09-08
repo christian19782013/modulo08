@@ -1565,8 +1565,7 @@
       Medios de&#160;transmisi&#243;n
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#990000" CREATED="1441572269490" ID="ID_961200249" MODIFIED="1441572274376" TEXT="Cable">
@@ -1599,8 +1598,7 @@
       se&#241;ales
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#111111" CREATED="1441575045808" ID="ID_249172602" MODIFIED="1441575074937" TEXT="">
 <node COLOR="#111111" CREATED="1441572878816" ID="ID_165156650" MODIFIED="1441575054410" TEXT="FDM">
 <node COLOR="#111111" CREATED="1441574516433" ID="ID_1988112145" MODIFIED="1441574535942" TEXT="Distribuci&#xf3;n de canales en el dominio de la frecuencia">
@@ -1612,8 +1610,7 @@
   <body>
     <img src="MULTIPLEXACIONFDMTDM.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1441576651192" ID="ID_573899666" MODIFIED="1441577493321">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1767,8 +1764,7 @@
       </tr>
     </table>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#111111" CREATED="1441576045517" ID="ID_1627118034" MODIFIED="1441576161085" TEXT="JERARQUIA FDM">
 <node CREATED="1441576085274" ID="ID_732624352" MODIFIED="1441576101914" TEXT="GRUPOS JUMBO"/>
 <node CREATED="1441576102773" ID="ID_1731469550" MODIFIED="1441576114443" TEXT="MASTER GRUPO"/>
@@ -1790,8 +1786,7 @@
   <body>
     <img src="MULTIPLEXACIONTDM.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1441577974002" ID="ID_1048488586" MODIFIED="1441577997999" TEXT="JERARQUIA PDH">
 <node CREATED="1441577615120" ID="ID_1705316883" MODIFIED="1441577970987">
@@ -1947,8 +1942,7 @@
   <body>
     <img src="image3375.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -1980,8 +1974,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="button_ok"/>
 <node CREATED="1441583978273" ID="ID_884300651" MODIFIED="1441583994300" TEXT="SONET ANSI USA"/>
 <node CREATED="1441583995311" ID="ID_496353317" MODIFIED="1441584113087" TEXT="SDH ITU EUROPA"/>
@@ -2080,7 +2073,7 @@
 </node>
 </node>
 <node CREATED="1441584998255" ID="ID_440191227" MODIFIED="1441585004697" TEXT=" DWM">
-<node CREATED="1441584769714" ID="ID_773928946" MODIFIED="1441584791281" TEXT="transmitir informaci&#xf3;n por fibra &#xf3;ptica">
+<node CREATED="1441584769714" HGAP="31" ID="ID_773928946" MODIFIED="1441674512785" TEXT="transmitir informaci&#xf3;n por fibra &#xf3;ptica" VSHIFT="62">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
