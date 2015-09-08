@@ -2095,7 +2095,7 @@
 <node CREATED="1441584769714" ID="ID_127881075" MODIFIED="1441584791281" TEXT="transmitir informaci&#xf3;n por fibra &#xf3;ptica">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1441704181692" ID="ID_995125856" MODIFIED="1441704214539">
+<node CREATED="1441704181692" ID="ID_995125856" MODIFIED="1441704292828">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2104,6 +2104,9 @@
     <ul>
       <li>
         Multiplexaci&#243;n por divisi&#243;n de onda
+      </li>
+      <li>
+        Se env&#237;a por una sola fibradiferentes cadenas de informaci&#243;n
       </li>
     </ul>
   </body>
