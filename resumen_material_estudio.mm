@@ -1778,7 +1778,7 @@
 </node>
 <node COLOR="#111111" CREATED="1441572885056" ID="ID_1353629658" MODIFIED="1441572890311" TEXT="TDM">
 <node COLOR="#111111" CREATED="1441574543539" ID="ID_336689693" MODIFIED="1441574558840" TEXT="Distribuci&#xf3;n de canales en el dominio del tiempo">
-<node COLOR="#111111" CREATED="1441575388352" HGAP="61" ID="ID_847425149" MODIFIED="1441577974112" VSHIFT="59">
+<node COLOR="#111111" CREATED="1441575388352" HGAP="61" ID="ID_847425149" MODIFIED="1441703835456" VSHIFT="59">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1788,8 +1788,8 @@
   </body>
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1441577974002" ID="ID_1048488586" MODIFIED="1441577997999" TEXT="JERARQUIA PDH">
-<node CREATED="1441577615120" ID="ID_1705316883" MODIFIED="1441577970987">
+<node CREATED="1441577974002" ID="ID_1048488586" MODIFIED="1441703867468" TEXT="JERARQUIA PDH">
+<node CREATED="1441577615120" ID="ID_1705316883" MODIFIED="1441703867549">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1946,8 +1946,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1441581750989" ID="ID_1771550160" MODIFIED="1441582167480" TEXT="JERARQUIA SDH">
-<node CREATED="1441582112770" ID="ID_581876989" MODIFIED="1441582309883">
+<node CREATED="1441581750989" ID="ID_1771550160" MODIFIED="1441703841725" TEXT="JERARQUIA SDH">
+<node CREATED="1441582112770" ID="ID_581876989" MODIFIED="1441703957992">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1976,10 +1976,34 @@
   </body>
 </html></richcontent>
 <icon BUILTIN="button_ok"/>
+<node CREATED="1441703957840" ID="ID_147412942" MODIFIED="1441704060482">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        Similares y compatibles
+      </li>
+      <li>
+        Estandar usado en fibra &#243;ptica
+      </li>
+      <li>
+        Equipos FOTS
+      </li>
+      <li>
+        Puede llevar jerarquias incompatibles
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1441583978273" ID="ID_884300651" MODIFIED="1441583994300" TEXT="SONET ANSI USA"/>
 <node CREATED="1441583995311" ID="ID_496353317" MODIFIED="1441584113087" TEXT="SDH ITU EUROPA"/>
 </node>
-<node CREATED="1441581988281" ID="ID_783102312" MODIFIED="1441582028223">
+</node>
+<node CREATED="1441581988281" ID="ID_783102312" MODIFIED="1441703850290">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2067,12 +2091,27 @@
 </node>
 </node>
 </node>
-<node CREATED="1441584230860" ID="ID_727477209" MODIFIED="1441584996793" TEXT="WDM">
+<node CREATED="1441584230860" ID="ID_727477209" MODIFIED="1441703867634" TEXT="WDM">
 <node CREATED="1441584769714" ID="ID_127881075" MODIFIED="1441584791281" TEXT="transmitir informaci&#xf3;n por fibra &#xf3;ptica">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
+<node CREATED="1441704181692" ID="ID_995125856" MODIFIED="1441704214539">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        Multiplexaci&#243;n por divisi&#243;n de onda
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
 </node>
-<node CREATED="1441584998255" ID="ID_440191227" MODIFIED="1441585004697" TEXT=" DWM">
+</node>
+<node CREATED="1441584998255" ID="ID_440191227" MODIFIED="1441703867637" TEXT=" DWM">
 <node CREATED="1441584769714" HGAP="31" ID="ID_773928946" MODIFIED="1441674512785" TEXT="transmitir informaci&#xf3;n por fibra &#xf3;ptica" VSHIFT="62">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
