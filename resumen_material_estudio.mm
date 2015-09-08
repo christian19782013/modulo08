@@ -382,7 +382,7 @@
 </html></richcontent>
 <node COLOR="#111111" CREATED="1441558190163" ID="ID_225362473" MODIFIED="1441561987221" STYLE="bubble" TEXT="Sistemas de radiocomunicaciones">
 <node COLOR="#111111" CREATED="1441561747482" ID="ID_527553728" MODIFIED="1441561987222" TEXT="Detecci&#xf3;n coherente">
-<node COLOR="#111111" CREATED="1441561789677" FOLDED="true" HGAP="49" ID="ID_4692447" MODIFIED="1441584445204" VSHIFT="-46">
+<node COLOR="#111111" CREATED="1441561789677" HGAP="49" ID="ID_4692447" MODIFIED="1441704600243" VSHIFT="-46">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -403,7 +403,7 @@
 </node>
 </node>
 <node COLOR="#111111" CREATED="1441561764177" ID="ID_1177457307" MODIFIED="1441561987227" TEXT="Detecci&#xf3;n no coherente">
-<node COLOR="#111111" CREATED="1441561789677" FOLDED="true" HGAP="25" ID="ID_791510372" MODIFIED="1441584445206" VSHIFT="44">
+<node COLOR="#111111" CREATED="1441561789677" HGAP="25" ID="ID_791510372" MODIFIED="1441704600238" VSHIFT="44">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -440,7 +440,7 @@
 </html></richcontent>
 <node COLOR="#111111" CREATED="1441558190163" ID="ID_848063826" MODIFIED="1441561987221" STYLE="bubble" TEXT="Sistemas de radiocomunicaciones">
 <node COLOR="#111111" CREATED="1441561747482" ID="ID_1821489086" MODIFIED="1441561987222" TEXT="Detecci&#xf3;n coherente">
-<node COLOR="#111111" CREATED="1441561789677" FOLDED="true" HGAP="49" ID="ID_1932207910" MODIFIED="1441584445207" VSHIFT="-46">
+<node COLOR="#111111" CREATED="1441561789677" HGAP="49" ID="ID_1932207910" MODIFIED="1441704600234" VSHIFT="-46">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -461,7 +461,7 @@
 </node>
 </node>
 <node COLOR="#111111" CREATED="1441561764177" ID="ID_1630071755" MODIFIED="1441561987227" TEXT="Detecci&#xf3;n no coherente">
-<node COLOR="#111111" CREATED="1441561789677" FOLDED="true" HGAP="25" ID="ID_1921997008" MODIFIED="1441584445208" VSHIFT="44">
+<node COLOR="#111111" CREATED="1441561789677" HGAP="25" ID="ID_1921997008" MODIFIED="1441704600231" VSHIFT="44">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -498,7 +498,7 @@
 </html></richcontent>
 <node COLOR="#111111" CREATED="1441558190163" ID="ID_990589875" MODIFIED="1441561987221" STYLE="bubble" TEXT="Sistemas de radiocomunicaciones">
 <node COLOR="#111111" CREATED="1441561747482" ID="ID_554949386" MODIFIED="1441561987222" TEXT="Detecci&#xf3;n coherente">
-<node COLOR="#111111" CREATED="1441561789677" FOLDED="true" HGAP="49" ID="ID_322852556" MODIFIED="1441584445209" VSHIFT="-46">
+<node COLOR="#111111" CREATED="1441561789677" HGAP="49" ID="ID_322852556" MODIFIED="1441704600226" VSHIFT="-46">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -519,7 +519,7 @@
 </node>
 </node>
 <node COLOR="#111111" CREATED="1441561764177" ID="ID_124128057" MODIFIED="1441561987227" TEXT="Detecci&#xf3;n no coherente">
-<node COLOR="#111111" CREATED="1441561789677" FOLDED="true" HGAP="25" ID="ID_1689953009" MODIFIED="1441584445210" VSHIFT="44">
+<node COLOR="#111111" CREATED="1441561789677" HGAP="25" ID="ID_1689953009" MODIFIED="1441704600222" VSHIFT="44">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -556,7 +556,7 @@
 </html></richcontent>
 <node COLOR="#111111" CREATED="1441558190163" ID="ID_1818763093" MODIFIED="1441561987221" STYLE="bubble" TEXT="Sistemas de radiocomunicaciones">
 <node COLOR="#111111" CREATED="1441561747482" ID="ID_557394204" MODIFIED="1441561987222" TEXT="Detecci&#xf3;n coherente">
-<node COLOR="#111111" CREATED="1441561789677" FOLDED="true" HGAP="49" ID="ID_395739931" MODIFIED="1441584445211" VSHIFT="-46">
+<node COLOR="#111111" CREATED="1441561789677" HGAP="49" ID="ID_395739931" MODIFIED="1441704600216" VSHIFT="-46">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -577,7 +577,7 @@
 </node>
 </node>
 <node COLOR="#111111" CREATED="1441561764177" ID="ID_635228993" MODIFIED="1441561987227" TEXT="Detecci&#xf3;n no coherente">
-<node COLOR="#111111" CREATED="1441561789677" FOLDED="true" HGAP="25" ID="ID_1662687906" MODIFIED="1441584445212" VSHIFT="44">
+<node COLOR="#111111" CREATED="1441561789677" HGAP="25" ID="ID_1662687906" MODIFIED="1441704600211" VSHIFT="44">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2000,7 +2000,9 @@
 </html>
 </richcontent>
 <node CREATED="1441583978273" ID="ID_884300651" MODIFIED="1441583994300" TEXT="SONET ANSI USA"/>
-<node CREATED="1441583995311" ID="ID_496353317" MODIFIED="1441584113087" TEXT="SDH ITU EUROPA"/>
+<node CREATED="1441583995311" ID="ID_496353317" MODIFIED="1441705233464" TEXT="SDH ITU EUROPA">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_496353317" ENDARROW="Default" ENDINCLINATION="427;0;" ID="Arrow_ID_1479120026" SOURCE="ID_542469179" STARTARROW="None" STARTINCLINATION="427;0;"/>
+</node>
 </node>
 </node>
 <node CREATED="1441581988281" ID="ID_783102312" MODIFIED="1441703850290">
@@ -2095,7 +2097,7 @@
 <node CREATED="1441584769714" ID="ID_127881075" MODIFIED="1441584791281" TEXT="transmitir informaci&#xf3;n por fibra &#xf3;ptica">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1441704181692" ID="ID_995125856" MODIFIED="1441704292828">
+<node CREATED="1441704181692" ID="ID_995125856" MODIFIED="1441705050433">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2106,12 +2108,84 @@
         Multiplexaci&#243;n por divisi&#243;n de onda
       </li>
       <li>
-        Se env&#237;a por una sola fibradiferentes cadenas de informaci&#243;n
+        Se env&#237;a por una sola fibra diferentes cadenas de informaci&#243;n
+      </li>
+      <li>
+        Se&#241;ales el&#233;ctricas se convierten en &#243;pticas mediante diodos laser
       </li>
     </ul>
   </body>
 </html>
 </richcontent>
+<node CREATED="1441704474181" ID="ID_1208267466" MODIFIED="1441704521013">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font size="6" color="#0000cc"><b>DWDM</b></font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1441704542327" ID="ID_1225066244" MODIFIED="1441704571230" TEXT=" se llega a enviar hasta 96 longitodes de onada y hasta 10Gbps"/>
+</node>
+</node>
+<node CREATED="1441705105805" ID="ID_434513099" MODIFIED="1441705117746" TEXT="Existen 2 tipos de WDM">
+<node CREATED="1441705119705" ID="ID_542469179" MODIFIED="1441705233465" TEXT="WDM- CONVENCIONAL ESTANDARIZADO POR LA ITU">
+<arrowlink DESTINATION="ID_496353317" ENDARROW="Default" ENDINCLINATION="427;0;" ID="Arrow_ID_1479120026" STARTARROW="None" STARTINCLINATION="427;0;"/>
+<node CREATED="1441705363382" ID="ID_479754259" MODIFIED="1441705373862" TEXT="100Ghz"/>
+<node CREATED="1441705374678" ID="ID_1447761330" MODIFIED="1441705381544" TEXT="200Ghz"/>
+</node>
+<node CREATED="1441705139102" ID="ID_1776288673" MODIFIED="1441705327119" TEXT="WDM DENSO"/>
+</node>
+<node CREATED="1441705427352" ID="ID_123112951" MODIFIED="1441705458368">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font size="6" color="#ff0000">Concepto.-Emisores</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1441705465034" ID="ID_1148548089" MODIFIED="1441705508963" TEXT="Caracter&#xed;sticas">
+<node CREATED="1441705827805" ID="ID_389749319" MODIFIED="1441705839065" TEXT="Ancho Espectral"/>
+<node CREATED="1441705898513" ID="ID_251027711" MODIFIED="1441705908486" TEXT="Estabilidad de longitud de onda"/>
+<node CREATED="1441705909392" ID="ID_1076880894" MODIFIED="1441705924361" TEXT="Lasers sinusoidales en longitud de onda"/>
+<node CREATED="1441705969716" ID="ID_1278361840" MODIFIED="1441705981784" TEXT="Laser multi-longitud de onda"/>
+</node>
+</node>
+<node CREATED="1441706011196" ID="ID_47760543" MODIFIED="1441706065577">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#009900" size="6">Concepto.-Multiplexores</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1441706125754" ID="ID_8716152" MODIFIED="1441706150444" TEXT="Introducir en una misma fibra, distintas longitudes de onda"/>
+</node>
+<node CREATED="1441706196961" ID="ID_1421182271" MODIFIED="1441706271598">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font color="#ff9900" size="6"><b>Concepto.-Repetidores/Amplificadores</b></font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1441706311706" ID="ID_1417622328" MODIFIED="1441706343441" TEXT="En cables trasatl&#xe1;ntico se coloca repetidoras cada 75km"/>
 </node>
 </node>
 <node CREATED="1441584998255" ID="ID_440191227" MODIFIED="1441703867637" TEXT=" DWM">
