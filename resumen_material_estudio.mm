@@ -2227,7 +2227,21 @@
 </node>
 </node>
 </node>
-<node CREATED="1441789374738" ID="ID_1897254749" MODIFIED="1441789392002" TEXT="Switch de divisi&#xf3;n de espacio"/>
+<node CREATED="1441789374738" ID="ID_1897254749" MODIFIED="1441789392002" TEXT="Switch de divisi&#xf3;n de espacio">
+<node CREATED="1441790019351" HGAP="327" ID="ID_720951299" MODIFIED="1441790192777" TEXT="Interruptores &#xf3;pticos digitales" VSHIFT="-5">
+<node CREATED="1441790038012" HGAP="108" ID="ID_1579689629" MODIFIED="1441790202322" VSHIFT="14">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="switch_div_espacio.png" />
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
 <node CREATED="1441789397721" ID="ID_882387380" MODIFIED="1441789405944" TEXT="Switch activo"/>
 <node CREATED="1441789408727" ID="ID_1899363050" MODIFIED="1441789424803" TEXT="Multiplexoreas Add-Drop"/>
 </node>
