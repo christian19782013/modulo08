@@ -2281,8 +2281,9 @@
 </node>
 </node>
 </node>
-<node COLOR="#111111" CREATED="1441789408727" ID="ID_1899363050" MODIFIED="1441790676725" TEXT="Multiplexoreas Add-Drop">
-<node COLOR="#111111" CREATED="1441790516370" ID="ID_397387450" MODIFIED="1441790676727" TEXT="A&#xf1;ade o retira un &#xfa;nico canal"/>
+<node COLOR="#111111" CREATED="1441789408727" ID="ID_1899363050" MODIFIED="1441791712901" TEXT="Multiplexoreas Add-Drop">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1899363050" ENDARROW="Default" ENDINCLINATION="415;0;" ID="Arrow_ID_1718765043" SOURCE="ID_1593806021" STARTARROW="None" STARTINCLINATION="415;0;"/>
+<node COLOR="#111111" CREATED="1441790516370" HGAP="128" ID="ID_397387450" MODIFIED="1441791721423" TEXT="A&#xf1;ade o retira un &#xfa;nico canal" VSHIFT="-22"/>
 </node>
 </node>
 </node>
@@ -2309,6 +2310,88 @@
   </body>
 </html></richcontent>
 <arrowlink COLOR="#ff0033" DESTINATION="ID_1334095947" ENDARROW="Default" ENDINCLINATION="1143;0;" ID="Arrow_ID_1276008888" STARTARROW="None" STARTINCLINATION="1143;0;"/>
+</node>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1441791462968" ID="ID_751812655" MODIFIED="1441791741224">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font size="6">Conceptos.-Ventajas e inconvenientes de WDM</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1441791741184" ID="ID_1419922155" MODIFIED="1441791754026">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Ventajas
+    </p>
+  </body>
+</html>
+</richcontent>
+<node COLOR="#111111" CREATED="1441791543812" HGAP="96" ID="ID_440577389" MODIFIED="1441791693237" VSHIFT="39">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font size="5">Incremento de capacidad</font>
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1441791666130" HGAP="118" ID="ID_1593806021" MODIFIED="1441791712902" VSHIFT="49">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font size="5">Capacidad para utilizar ADM</font>
+    </p>
+  </body>
+</html></richcontent>
+<arrowlink DESTINATION="ID_1899363050" ENDARROW="Default" ENDINCLINATION="415;0;" ID="Arrow_ID_1718765043" STARTARROW="None" STARTINCLINATION="415;0;"/>
+</node>
+<node COLOR="#111111" CREATED="1441791798922" HGAP="107" ID="ID_936666220" MODIFIED="1441791825467" TEXT="Para una nueva soluci&#xf3;n WDN, no se necesita cambiar nada" VSHIFT="52"/>
+</node>
+<node COLOR="#111111" CREATED="1441791873358" ID="ID_724378212" MODIFIED="1441791879105" TEXT="Desventajas">
+<node COLOR="#111111" CREATED="1441791881469" HGAP="52" ID="ID_1354027841" MODIFIED="1441791900240" VSHIFT="55">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      tolerancias y ajustes de los l&#225;sers y filtros son muy cr&#237;ticos
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#111111" CREATED="1441791922949" HGAP="65" ID="ID_706464673" MODIFIED="1441791941382" VSHIFT="46">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Por otra parte presentan el problema de la normalizaci&#243;n, inexistente hasta la fecha, ya que no se garantiza la compatibilidad entre los equipos
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
