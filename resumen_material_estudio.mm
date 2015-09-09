@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node COLOR="#000000" CREATED="1441546449868" ID="ID_1175932661" MODIFIED="1441840075639" STYLE="bubble" TEXT="MATERIAL DE ESTUDIO">
+<node COLOR="#000000" CREATED="1441546449868" ID="ID_1175932661" MODIFIED="1441842344265" STYLE="bubble" TEXT="MATERIAL DE ESTUDIO">
 <edge STYLE="sharp_bezier"/>
 <font NAME="SansSerif" SIZE="20"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties"/>
@@ -2556,25 +2556,164 @@
 <node COLOR="#111111" CREATED="1441839873967" ID="ID_1239036366" MODIFIED="1441839887973" TEXT="Una freq para transmitir y otra para recibir"/>
 <node COLOR="#111111" CREATED="1441839888792" ID="ID_670802511" MODIFIED="1441840057604" TEXT="Normalmente se combina con FDD multiplexing"/>
 <node COLOR="#111111" CREATED="1441840121204" ID="ID_1728794202" MODIFIED="1441840132521" TEXT="Trasmisi&#xf3;n de forma continua y simultanea"/>
+<node COLOR="#111111" CREATED="1441840263608" ID="ID_1434746672" MODIFIED="1441840268508" TEXT="Banda angosta"/>
 </node>
 </node>
-<node COLOR="#111111" CREATED="1441792996214" ID="ID_1483776693" MODIFIED="1441793182645" TEXT="TDMA">
+<node COLOR="#111111" CREATED="1441792996214" ID="ID_1483776693" MODIFIED="1441841442055" TEXT="TDMA">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1483776693" ENDARROW="Default" ENDINCLINATION="342;0;" ID="Arrow_ID_1862445211" SOURCE="ID_1373251045" STARTARROW="Default" STARTINCLINATION="342;0;"/>
 <font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1441840371048" ID="ID_684434922" MODIFIED="1441840373456" TEXT="Time Division Multiple Access">
+<node COLOR="#111111" CREATED="1441840440124" ID="ID_1832520521" MODIFIED="1441840546265">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Un solo canal puede soportar 4,6y 8 conversaciones si cada conversaci&#243;n es dividida en fragmentos relativamente cortos,se asigna na una ranura de tiempo y se transmiten en r&#225;faga en forma sincronizada.Una vez que la &#250;ltima ranura es transmitida, el proceso se repite
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#111111" CREATED="1441841255608" HGAP="29" ID="ID_1421586568" MODIFIED="1441841287323" VSHIFT="82">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font size="5" color="#ff0033">Desventajas de TDMA</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node COLOR="#111111" CREATED="1441841324097" ID="ID_1114233675" MODIFIED="1441841335355" TEXT="Handover(Cambio de celda)"/>
+<node COLOR="#111111" CREATED="1441841485391" ID="ID_1919813129" MODIFIED="1441841499408" TEXT="Distorsi&#xf3;n po rmultipath"/>
+</node>
+</node>
 </node>
 <node COLOR="#111111" CREATED="1441793006172" ID="ID_272874242" MODIFIED="1441793189674" TEXT="CDMA">
 <font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1441841561638" ID="ID_1125687025" MODIFIED="1441842344012" TEXT="CDMA Code Division Multiple Access">
+<node COLOR="#111111" CREATED="1441841650272" ID="ID_630651781" MODIFIED="1441842344013">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      En CDMA se utiliza la misma portadora y los usuarios transmiten en forma simultanea
+    </p>
+  </body>
+</html>
+</richcontent>
+<node COLOR="#111111" CREATED="1441841829296" ID="ID_191607149" MODIFIED="1441842344017">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="image4794.png" />
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#111111" CREATED="1441841883368" ID="ID_1344642440" MODIFIED="1441842344072">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font size="5">Caracter&#237;sticas</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node COLOR="#111111" CREATED="1441841897128" ID="ID_687275496" MODIFIED="1441842344075">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Se utiliza la misma frecuencia
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#111111" CREATED="1441841927611" ID="ID_419629723" MODIFIED="1441842344078" TEXT="Combina">
+<node COLOR="#111111" CREATED="1441841933259" ID="ID_1839659241" MODIFIED="1441842344079" TEXT="FDD"/>
+<node COLOR="#111111" CREATED="1441841938989" ID="ID_339111719" MODIFIED="1441842344080" TEXT="TDD"/>
+</node>
+<node COLOR="#111111" CREATED="1441841970315" ID="ID_1173958826" MODIFIED="1441842344080" TEXT="Aumenta los usuarios aumenta el ruido"/>
+</node>
+</node>
+</node>
 </node>
 <node COLOR="#111111" CREATED="1441793023645" ID="ID_1616251859" MODIFIED="1441793195173" TEXT="OFDMA">
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#111111" CREATED="1441793033413" ID="ID_1568502" MODIFIED="1441793201648" TEXT="SDMA">
+<node COLOR="#111111" CREATED="1441793033413" ID="ID_1568502" MODIFIED="1441842195486" TEXT="SDMA">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1568502" ENDARROW="Default" ENDINCLINATION="256;0;" ID="Arrow_ID_1418942864" SOURCE="ID_1860259371" STARTARROW="None" STARTINCLINATION="256;0;"/>
 <font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1441842026460" ID="ID_1469641724" MODIFIED="1441842344081">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font size="5">Space Division Multiple Access</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node COLOR="#111111" CREATED="1441842081617" ID="ID_1731380105" MODIFIED="1441842344085" TEXT="Caracter&#xed;sticas">
+<node COLOR="#111111" CREATED="1441842089954" ID="ID_1755973308" MODIFIED="1441842344086">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <ul>
+      <li>
+        Controla la energ&#237;a irradiada por cada usuario en el espacio.
+      </li>
+      <li>
+        La sectorizaci&#243;n de antenas es una t&#233;cnica SDMA
+      </li>
+      <li>
+        Se utilizan antenas adaptivas
+      </li>
+    </ul>
+  </body>
+</html>
+</richcontent>
+<icon BUILTIN="female1"/>
+<icon BUILTIN="female1"/>
+<node COLOR="#111111" CREATED="1441842276395" ID="ID_1280239294" MODIFIED="1441842344090">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="image48xx.png" />
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
 </node>
 <node COLOR="#111111" CREATED="1441793048953" ID="ID_896944603" MODIFIED="1441839450595" TEXT="CSMA/CS">
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
-<node COLOR="#990000" CREATED="1441793414250" ID="ID_1013146853" MODIFIED="1441793421051">
+<node COLOR="#990000" CREATED="1441793414250" ID="ID_1013146853" MODIFIED="1441841393369">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -2589,7 +2728,8 @@
 <arrowlink DESTINATION="ID_1869307957" ENDARROW="Default" ENDINCLINATION="310;0;" ID="Arrow_ID_1662546403" STARTARROW="None" STARTINCLINATION="310;0;"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#111111" CREATED="1441792996214" ID="ID_1373251045" MODIFIED="1441793182645" TEXT="TDMA">
+<node COLOR="#111111" CREATED="1441792996214" ID="ID_1373251045" MODIFIED="1441841442055" TEXT="TDMA">
+<arrowlink DESTINATION="ID_1483776693" ENDARROW="Default" ENDINCLINATION="342;0;" ID="Arrow_ID_1862445211" STARTARROW="Default" STARTINCLINATION="342;0;"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node COLOR="#111111" CREATED="1441793006172" ID="ID_453590402" MODIFIED="1441793189674" TEXT="CDMA">
@@ -2598,12 +2738,139 @@
 <node COLOR="#111111" CREATED="1441793023645" ID="ID_685740831" MODIFIED="1441793195173" TEXT="OFDMA">
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node COLOR="#111111" CREATED="1441793033413" ID="ID_1860259371" MODIFIED="1441793201648" TEXT="SDMA">
+<node COLOR="#111111" CREATED="1441793033413" ID="ID_1860259371" MODIFIED="1441842195487" TEXT="SDMA">
+<arrowlink DESTINATION="ID_1568502" ENDARROW="Default" ENDINCLINATION="256;0;" ID="Arrow_ID_1418942864" STARTARROW="None" STARTINCLINATION="256;0;"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 <node COLOR="#111111" CREATED="1441793048953" ID="ID_1082797037" MODIFIED="1441793143112" TEXT="CSMA/CS">
 <font NAME="SansSerif" SIZE="12"/>
 </node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1441842326530" HGAP="52" ID="ID_356302333" MODIFIED="1441842377419" VSHIFT="203">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font size="6">Esquemas de Acceso al medio</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1441842391570" ID="ID_1035946757" MODIFIED="1441842403178">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      PacketRadio MultipleAccess
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1441842449972" ID="ID_435342181" MODIFIED="1441842506969">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Los Abonados intentan acceder a un canal &#250;nico en forma no coordinada
+    </p>
+  </body>
+</html>
+</richcontent>
+<node COLOR="#111111" CREATED="1441842506945" ID="ID_1020357273" MODIFIED="1441842528854">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Es la respuesta que los abonados esperan de la estaci&#243;n base
+    </p>
+  </body>
+</html>
+</richcontent>
+<node COLOR="#111111" CREATED="1441842490217" ID="ID_432050800" MODIFIED="1441842537493" TEXT="ACK"/>
+<node COLOR="#111111" CREATED="1441842494847" ID="ID_1859967109" MODIFIED="1441842497783" TEXT="NACK"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1441842560365" ID="ID_1104253061" MODIFIED="1441842802049">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font size="6">Caracter&#237;sticas</font>
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1441842571209" HGAP="75" ID="ID_1191171715" MODIFIED="1441842600002" VSHIFT="56">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      F&#225;cil de implementar
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node COLOR="#111111" CREATED="1441842610556" HGAP="96" ID="ID_653369608" MODIFIED="1441842626247" TEXT="Eficiencia de bajo espectro" VSHIFT="27"/>
+<node COLOR="#111111" CREATED="1441842657377" HGAP="76" ID="ID_1441064360" MODIFIED="1441842691323" VSHIFT="52">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Prococolo&#160;<font color="#330099" size="9">ALOHA</font>
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1441842747347" ID="ID_1226373119" MODIFIED="1441842806758" TEXT="Ventajas">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1441842754018" ID="ID_1999842949" MODIFIED="1441842784861">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Podemos atender a muchos abonados con un muy peque&#241;o Overhead
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1441842915645" ID="ID_1571201660" MODIFIED="1441842920607" TEXT="CSMA/CD">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1441842923032" HGAP="426" ID="ID_1614262522" MODIFIED="1441843006664" VSHIFT="55">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="imaSS828.png" />
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
 </node>
