@@ -2518,6 +2518,81 @@
 </node>
 </node>
 </node>
+<node COLOR="#00b439" CREATED="1441792965084" ID="ID_1456922495" MODIFIED="1441793143120">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font size="6">M&#233;todos de Acceso m&#250;ltiple</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1441793143096" ID="ID_583101441" MODIFIED="1441793158331">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="image4212.png" />
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1441792992563" ID="ID_645563291" MODIFIED="1441793163258" TEXT="FDMA">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1441792996214" ID="ID_1483776693" MODIFIED="1441793182645" TEXT="TDMA">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1441793006172" ID="ID_272874242" MODIFIED="1441793189674" TEXT="CDMA">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1441793023645" ID="ID_1616251859" MODIFIED="1441793195173" TEXT="OFDMA">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1441793033413" ID="ID_1568502" MODIFIED="1441793201648" TEXT="SDMA">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1441793048953" ID="ID_896944603" MODIFIED="1441793143112" TEXT="CSMA/CS">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1441793414250" ID="ID_1013146853" MODIFIED="1441793421051">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="IMASDLHJKHK.png" />
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1441792992563" ID="ID_779855642" MODIFIED="1441793163258" TEXT="FDMA">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1441792996214" ID="ID_1373251045" MODIFIED="1441793182645" TEXT="TDMA">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1441793006172" ID="ID_453590402" MODIFIED="1441793189674" TEXT="CDMA">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1441793023645" ID="ID_685740831" MODIFIED="1441793195173" TEXT="OFDMA">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1441793033413" ID="ID_1860259371" MODIFIED="1441793201648" TEXT="SDMA">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1441793048953" ID="ID_1082797037" MODIFIED="1441793143112" TEXT="CSMA/CS">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
 </node>
 </node>
 </map>
