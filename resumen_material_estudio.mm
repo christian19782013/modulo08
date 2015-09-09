@@ -2194,8 +2194,39 @@
 </html>
 </richcontent>
 <node CREATED="1441789316730" ID="ID_1144778222" MODIFIED="1441789338010" TEXT="Para redes WDM m&#xe1;s generales, se clasifican en:">
-<node CREATED="1441789340160" ID="ID_924883174" MODIFIED="1441789353320" TEXT="Estrella pasiva"/>
-<node CREATED="1441789366823" ID="ID_189680063" MODIFIED="1441789373760" TEXT="Router Pasivo"/>
+<node CREATED="1441789340160" ID="ID_924883174" MODIFIED="1441789353320" TEXT="Estrella pasiva">
+<node CREATED="1441789466697" HGAP="391" ID="ID_670574242" MODIFIED="1441789575509" VSHIFT="-37">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Elemento utilizado en broadcast,
+    </p>
+    <p>
+      Su potencia de entrada se divide en la salida
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node CREATED="1441789366823" ID="ID_189680063" MODIFIED="1441789373760" TEXT="Router Pasivo">
+<node CREATED="1441789578973" HGAP="410" ID="ID_1077916567" MODIFIED="1441789943679" TEXT="Se lo hace con multiplexores y demultiplexores" VSHIFT="36">
+<node CREATED="1441789946485" ID="ID_1563542537" MODIFIED="1441789950990">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="intercon_router_pasivo2.png" />
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
 <node CREATED="1441789374738" ID="ID_1897254749" MODIFIED="1441789392002" TEXT="Switch de divisi&#xf3;n de espacio"/>
 <node CREATED="1441789397721" ID="ID_882387380" MODIFIED="1441789405944" TEXT="Switch activo"/>
 <node CREATED="1441789408727" ID="ID_1899363050" MODIFIED="1441789424803" TEXT="Multiplexoreas Add-Drop"/>
