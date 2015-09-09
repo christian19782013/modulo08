@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node COLOR="#000000" CREATED="1441546449868" ID="ID_1175932661" MODIFIED="1441790676735" STYLE="bubble" TEXT="MATERIAL DE ESTUDIO">
+<node COLOR="#000000" CREATED="1441546449868" ID="ID_1175932661" MODIFIED="1441792059536" STYLE="bubble" TEXT="MATERIAL DE ESTUDIO">
 <edge STYLE="sharp_bezier"/>
 <font NAME="SansSerif" SIZE="20"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties"/>
@@ -2404,6 +2404,116 @@
 </node>
 </node>
 </node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1441792091973" ID="ID_724420675" MODIFIED="1441792118825" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font size="6">Paper 3.-T&#233;cnicas de Acceso M&#250;ltiple</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1441792273386" ID="ID_1191048754" MODIFIED="1441792388391">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      simultaneidad &#8221;se la denomina&quot; DUPLEXION&quot;
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1441792314203" ID="ID_1465228851" MODIFIED="1441792345496">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font size="6">FrecuencyDivisionDuplexing(FDD)</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1441792432135" ID="ID_1059022628" MODIFIED="1441792735148">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Provee de dos <font size="5">frecuencias</font>&#160;distintas <font size="6">para cada usuario</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node COLOR="#111111" CREATED="1441792488645" ID="ID_326957967" MODIFIED="1441792535941">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font size="5">&quot;Duplexor&quot; ,en el aparatom&#243;vil,permitiendo la recepci&#243;n y transmisi&#243;n simultanea</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1441792319119" ID="ID_1669883458" MODIFIED="1441792359342">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font size="6">TimeDivisionDuplexing(TDD)</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1441792579045" HGAP="92" ID="ID_567617806" MODIFIED="1441792726372" VSHIFT="23">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font size="6">Otro m&#233;todo de&quot;duplexi&#243;n&quot; es el Time Division Duplexing (TDD),el cual utiliza un canal de frecuencia por usuario y mediante el uso de ranuras de tiempo para Tx y para Rx,se da la sensaci&#243;n de&quot;simultaneidad&quot; al usuario</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<node COLOR="#111111" CREATED="1441792771733" ID="ID_1586599500" MODIFIED="1441792803722">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font size="5">OJO: N&#243;tese que este m&#233;todo no es&#8220;fullduplex&#8221; en estricto rigor</font>
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
