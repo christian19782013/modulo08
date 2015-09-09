@@ -1997,8 +1997,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1441583978273" ID="ID_884300651" MODIFIED="1441583994300" TEXT="SONET ANSI USA"/>
 <node CREATED="1441583995311" ID="ID_496353317" MODIFIED="1441705233464" TEXT="SDH ITU EUROPA">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_496353317" ENDARROW="Default" ENDINCLINATION="427;0;" ID="Arrow_ID_1479120026" SOURCE="ID_542469179" STARTARROW="None" STARTINCLINATION="427;0;"/>
@@ -2115,8 +2114,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1441704474181" ID="ID_1208267466" MODIFIED="1441704521013">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2127,8 +2125,7 @@
       <font size="6" color="#0000cc"><b>DWDM</b></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1441704542327" ID="ID_1225066244" MODIFIED="1441704571230" TEXT=" se llega a enviar hasta 96 longitodes de onada y hasta 10Gbps"/>
 </node>
 </node>
@@ -2150,8 +2147,7 @@
       <font size="6" color="#ff0000">Concepto.-Emisores</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1441705465034" ID="ID_1148548089" MODIFIED="1441705508963" TEXT="Caracter&#xed;sticas">
 <node CREATED="1441705827805" ID="ID_389749319" MODIFIED="1441705839065" TEXT="Ancho Espectral"/>
 <node CREATED="1441705898513" ID="ID_251027711" MODIFIED="1441705908486" TEXT="Estabilidad de longitud de onda"/>
@@ -2169,8 +2165,7 @@
       <font color="#009900" size="6">Concepto.-Multiplexores</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1441706125754" ID="ID_8716152" MODIFIED="1441706150444" TEXT="Introducir en una misma fibra, distintas longitudes de onda"/>
 </node>
 <node CREATED="1441706196961" ID="ID_1421182271" MODIFIED="1441706271598">
@@ -2183,9 +2178,28 @@
       <font color="#ff9900" size="6"><b>Concepto.-Repetidores/Amplificadores</b></font>
     </p>
   </body>
+</html></richcontent>
+<node CREATED="1441706311706" ID="ID_1417622328" MODIFIED="1441706343441" TEXT="En cables trasatl&#xe1;ntico se coloca repetidoras cada 75km"/>
+</node>
+<node CREATED="1441789242698" ID="ID_702923738" MODIFIED="1441789284340">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font size="6" color="#0033ff">Concepto.- Interconexi&#243;n</font>
+    </p>
+  </body>
 </html>
 </richcontent>
-<node CREATED="1441706311706" ID="ID_1417622328" MODIFIED="1441706343441" TEXT="En cables trasatl&#xe1;ntico se coloca repetidoras cada 75km"/>
+<node CREATED="1441789316730" ID="ID_1144778222" MODIFIED="1441789338010" TEXT="Para redes WDM m&#xe1;s generales, se clasifican en:">
+<node CREATED="1441789340160" ID="ID_924883174" MODIFIED="1441789353320" TEXT="Estrella pasiva"/>
+<node CREATED="1441789366823" ID="ID_189680063" MODIFIED="1441789373760" TEXT="Router Pasivo"/>
+<node CREATED="1441789374738" ID="ID_1897254749" MODIFIED="1441789392002" TEXT="Switch de divisi&#xf3;n de espacio"/>
+<node CREATED="1441789397721" ID="ID_882387380" MODIFIED="1441789405944" TEXT="Switch activo"/>
+<node CREATED="1441789408727" ID="ID_1899363050" MODIFIED="1441789424803" TEXT="Multiplexoreas Add-Drop"/>
+</node>
 </node>
 </node>
 <node CREATED="1441584998255" ID="ID_440191227" MODIFIED="1441703867637" TEXT=" DWM">
