@@ -2877,6 +2877,67 @@
 </richcontent>
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1442028116423" ID="ID_914482338" MODIFIED="1442028120705">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="rect4sss164.png" />
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1442028164147" ID="ID_1557354585" MODIFIED="1442028170018">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="rect4sss1aa64.png" />
+  </body>
+</html>
+</richcontent>
+<node COLOR="#111111" CREATED="1442028270626" ID="ID_920822082" MODIFIED="1442028280155" TEXT="En un punto en espec&#xed;fico">
+<node COLOR="#111111" CREATED="1442028281832" ID="ID_1932074891" MODIFIED="1442028286251">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="imagess4174.png" />
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1442028263775" ID="ID_23043859" MODIFIED="1442028263777" TEXT=""/>
+</node>
+<node COLOR="#990000" CREATED="1442028506997" HGAP="100" ID="ID_1798548477" MODIFIED="1442028516610" VSHIFT="116">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="images4193.png" />
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1442028586419" HGAP="136" ID="ID_42618071" MODIFIED="1442028599701" VSHIFT="48">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="imasge4210.png" />
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
 </node>
 </node>
 </node>
