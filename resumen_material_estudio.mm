@@ -104,7 +104,16 @@
 <node COLOR="#00b439" CREATED="1441567490638" ID="ID_169285154" MODIFIED="1441572204235" TEXT="Por que se modula?">
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
-<node COLOR="#990000" CREATED="1441567547865" ID="ID_1177387926" MODIFIED="1441572204237" TEXT="">
+<node COLOR="#990000" CREATED="1441567547865" ID="ID_1177387926" MODIFIED="1442027793324">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="image4144rangosmodulacon.png" />
+  </body>
+</html>
+</richcontent>
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#111111" CREATED="1441551537340" ID="ID_501481193" MODIFIED="1441572204248" STYLE="bubble" TEXT="Modulaciones">
 <edge STYLE="bezier" WIDTH="thin"/>
@@ -2192,8 +2201,7 @@
       <font size="6" color="#0033ff">Concepto.- Interconexi&#243;n</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#111111" CREATED="1441789316730" ID="ID_1144778222" MODIFIED="1441790676638" TEXT="Para redes WDM m&#xe1;s generales, se clasifican en:">
 <node COLOR="#111111" CREATED="1441789340160" ID="ID_924883174" MODIFIED="1441790676639" TEXT="Estrella pasiva">
 <node COLOR="#111111" CREATED="1441789466697" HGAP="391" ID="ID_670574242" MODIFIED="1441790676641" VSHIFT="-37">
@@ -2209,8 +2217,7 @@
       Su potencia de entrada se divide en la salida
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#111111" CREATED="1441790922313" HGAP="132" ID="ID_1334095947" MODIFIED="1441791029772" VSHIFT="10">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2219,8 +2226,7 @@
   <body>
     <img src="Estrellapasiva.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <linktarget COLOR="#ff0033" DESTINATION="ID_1334095947" ENDARROW="Default" ENDINCLINATION="1143;0;" ID="Arrow_ID_1276008888" SOURCE="ID_886570465" STARTARROW="None" STARTINCLINATION="1143;0;"/>
 </node>
 </node>
@@ -2235,8 +2241,7 @@
   <body>
     <img src="intercon_router_pasivo2.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -2250,8 +2255,7 @@
   <body>
     <img src="switch_div_espacio.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -2266,8 +2270,7 @@
       Permite que&#160;&#160;mediante la adici&#243;n de switches de divisi&#243;n de espacio al router pasivo, consigue que se interconexiones de entrada y salida y ser<font color="#ff3300" size="5">&#160; reconfigurados electronicamente</font>.
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#111111" CREATED="1441790473098" HGAP="58" ID="ID_174219094" MODIFIED="1441790995844" VSHIFT="7">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2276,8 +2279,7 @@
   <body>
     <img src="switch_activo.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -2297,8 +2299,7 @@
       <font size="6" color="#ff0033">Concepto.-Redes WDM</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#111111" CREATED="1441790952733" ID="ID_1985252136" MODIFIED="1441790966021" TEXT="Redes basadas en broadcast">
 <node COLOR="#111111" CREATED="1441790968219" HGAP="163" ID="ID_886570465" MODIFIED="1441791035150" VSHIFT="78">
 <richcontent TYPE="NODE"><html>
@@ -2323,8 +2324,7 @@
       <font size="6">Conceptos.-Ventajas e inconvenientes de WDM</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 <node COLOR="#111111" CREATED="1441791741184" ID="ID_1419922155" MODIFIED="1441791754026">
 <richcontent TYPE="NODE"><html>
@@ -2336,8 +2336,7 @@
       Ventajas
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#111111" CREATED="1441791543812" HGAP="96" ID="ID_440577389" MODIFIED="1441791693237" VSHIFT="39">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2377,8 +2376,7 @@
       tolerancias y ajustes de los l&#225;sers y filtros son muy cr&#237;ticos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#111111" CREATED="1441791922949" HGAP="65" ID="ID_706464673" MODIFIED="1441791941382" VSHIFT="46">
 <richcontent TYPE="NODE"><html>
@@ -2390,8 +2388,7 @@
       Por otra parte presentan el problema de la normalizaci&#243;n, inexistente hasta la fecha, ya que no se garantiza la compatibilidad entre los equipos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -2419,8 +2416,7 @@
       <font size="6">Paper 3.-T&#233;cnicas de Acceso M&#250;ltiple</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="SansSerif" SIZE="18"/>
 <node COLOR="#00b439" CREATED="1441792273386" ID="ID_1191048754" MODIFIED="1441792388391">
@@ -2433,8 +2429,7 @@
       simultaneidad &#8221;se la denomina&quot; DUPLEXION&quot;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#990000" CREATED="1441792314203" ID="ID_1465228851" MODIFIED="1441840101966">
@@ -2447,8 +2442,7 @@
       <font size="6">FrecuencyDivisionDuplexing(FDD)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <arrowlink DESTINATION="ID_645563291" ENDARROW="Default" ENDINCLINATION="344;0;" ID="Arrow_ID_472236923" STARTARROW="None" STARTINCLINATION="344;0;"/>
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#111111" CREATED="1441792432135" ID="ID_1059022628" MODIFIED="1441792735148">
@@ -2461,8 +2455,7 @@
       Provee de dos <font size="5">frecuencias</font>&#160;distintas <font size="6">para cada usuario</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#111111" CREATED="1441792488645" ID="ID_326957967" MODIFIED="1441792535941">
 <richcontent TYPE="NODE"><html>
@@ -2474,8 +2467,7 @@
       <font size="5">&quot;Duplexor&quot; ,en el aparatom&#243;vil,permitiendo la recepci&#243;n y transmisi&#243;n simultanea</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node COLOR="#990000" CREATED="1441792319119" ID="ID_1669883458" MODIFIED="1441792359342">
@@ -2488,8 +2480,7 @@
       <font size="6">TimeDivisionDuplexing(TDD)</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#111111" CREATED="1441792579045" HGAP="92" ID="ID_567617806" MODIFIED="1441792726372" VSHIFT="23">
 <richcontent TYPE="NODE"><html>
@@ -2501,8 +2492,7 @@
       <font size="6">Otro m&#233;todo de&quot;duplexi&#243;n&quot; es el Time Division Duplexing (TDD),el cual utiliza un canal de frecuencia por usuario y mediante el uso de ranuras de tiempo para Tx y para Rx,se da la sensaci&#243;n de&quot;simultaneidad&quot; al usuario</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#111111" CREATED="1441792771733" ID="ID_1586599500" MODIFIED="1441792803722">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2513,8 +2503,7 @@
       <font size="5">OJO: N&#243;tese que este m&#233;todo no es&#8220;fullduplex&#8221; en estricto rigor</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -2529,8 +2518,7 @@
       <font size="6">M&#233;todos de Acceso m&#250;ltiple</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#990000" CREATED="1441793143096" ID="ID_583101441" MODIFIED="1441793158331">
@@ -2541,16 +2529,15 @@
   <body>
     <img src="image4212.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#111111" CREATED="1441792992563" ID="ID_645563291" MODIFIED="1441840101966" TEXT="FDMA">
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_645563291" ENDARROW="Default" ENDINCLINATION="344;0;" ID="Arrow_ID_472236923" SOURCE="ID_1465228851" STARTARROW="None" STARTINCLINATION="344;0;"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node COLOR="#111111" CREATED="1441839497379" ID="ID_1869307957" MODIFIED="1441839543140" TEXT="Frecuency Division multiple access">
 <arrowlink DESTINATION="ID_1869307957" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_446142610" STARTARROW="None" STARTINCLINATION="0;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1869307957" ENDARROW="Default" ENDINCLINATION="310;0;" ID="Arrow_ID_1662546403" SOURCE="ID_779855642" STARTARROW="None" STARTINCLINATION="310;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1869307957" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_446142610" SOURCE="ID_1869307957" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1869307957" ENDARROW="Default" ENDINCLINATION="310;0;" ID="Arrow_ID_1662546403" SOURCE="ID_779855642" STARTARROW="None" STARTINCLINATION="310;0;"/>
 <node COLOR="#111111" CREATED="1441839809600" ID="ID_1402985355" MODIFIED="1441839822727" TEXT="Se asignan canales individuales a cada usuario"/>
 <node COLOR="#111111" CREATED="1441839840891" ID="ID_1527913117" MODIFIED="1441839859672" TEXT="Se asigna los canales de acuerdo a demanda"/>
 <node COLOR="#111111" CREATED="1441839873967" ID="ID_1239036366" MODIFIED="1441839887973" TEXT="Una freq para transmitir y otra para recibir"/>
@@ -2573,8 +2560,7 @@
       Un solo canal puede soportar 4,6y 8 conversaciones si cada conversaci&#243;n es dividida en fragmentos relativamente cortos,se asigna na una ranura de tiempo y se transmiten en r&#225;faga en forma sincronizada.Una vez que la &#250;ltima ranura es transmitida, el proceso se repite
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#111111" CREATED="1441841255608" HGAP="29" ID="ID_1421586568" MODIFIED="1441841287323" VSHIFT="82">
 <richcontent TYPE="NODE"><html>
@@ -2586,8 +2572,7 @@
       <font size="5" color="#ff0033">Desventajas de TDMA</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#111111" CREATED="1441841324097" ID="ID_1114233675" MODIFIED="1441841335355" TEXT="Handover(Cambio de celda)"/>
 <node COLOR="#111111" CREATED="1441841485391" ID="ID_1919813129" MODIFIED="1441841499408" TEXT="Distorsi&#xf3;n po rmultipath"/>
 </node>
@@ -2606,8 +2591,7 @@
       En CDMA se utiliza la misma portadora y los usuarios transmiten en forma simultanea
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#111111" CREATED="1441841829296" ID="ID_191607149" MODIFIED="1441842344017">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2616,8 +2600,7 @@
   <body>
     <img src="image4794.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#111111" CREATED="1441841883368" ID="ID_1344642440" MODIFIED="1441842344072">
 <richcontent TYPE="NODE"><html>
@@ -2629,8 +2612,7 @@
       <font size="5">Caracter&#237;sticas</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#111111" CREATED="1441841897128" ID="ID_687275496" MODIFIED="1441842344075">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2641,8 +2623,7 @@
       Se utiliza la misma frecuencia
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node COLOR="#111111" CREATED="1441841927611" ID="ID_419629723" MODIFIED="1441842344078" TEXT="Combina">
 <node COLOR="#111111" CREATED="1441841933259" ID="ID_1839659241" MODIFIED="1441842344079" TEXT="FDD"/>
@@ -2669,8 +2650,7 @@
       <font size="5">Space Division Multiple Access</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#111111" CREATED="1441842081617" ID="ID_1731380105" MODIFIED="1441842344085" TEXT="Caracter&#xed;sticas">
 <node COLOR="#111111" CREATED="1441842089954" ID="ID_1755973308" MODIFIED="1441842344086">
 <richcontent TYPE="NODE"><html>
@@ -2690,8 +2670,7 @@
       </li>
     </ul>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="female1"/>
 <icon BUILTIN="female1"/>
 <node COLOR="#111111" CREATED="1441842276395" ID="ID_1280239294" MODIFIED="1441842344090">
@@ -2702,8 +2681,7 @@
   <body>
     <img src="image48xx.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -2721,8 +2699,7 @@
   <body>
     <img src="IMASDLHJKHK.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#111111" CREATED="1441792992563" ID="ID_779855642" MODIFIED="1441839505547" TEXT="FDMA">
 <arrowlink DESTINATION="ID_1869307957" ENDARROW="Default" ENDINCLINATION="310;0;" ID="Arrow_ID_1662546403" STARTARROW="None" STARTINCLINATION="310;0;"/>
@@ -2757,8 +2734,7 @@
       <font size="6">Esquemas de Acceso al medio</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="16"/>
 <node COLOR="#990000" CREATED="1441842391570" ID="ID_1035946757" MODIFIED="1441842403178">
@@ -2771,8 +2747,7 @@
       PacketRadio MultipleAccess
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#111111" CREATED="1441842449972" ID="ID_435342181" MODIFIED="1441842506969">
 <richcontent TYPE="NODE"><html>
@@ -2784,8 +2759,7 @@
       Los Abonados intentan acceder a un canal &#250;nico en forma no coordinada
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#111111" CREATED="1441842506945" ID="ID_1020357273" MODIFIED="1441842528854">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -2796,8 +2770,7 @@
       Es la respuesta que los abonados esperan de la estaci&#243;n base
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node COLOR="#111111" CREATED="1441842490217" ID="ID_432050800" MODIFIED="1441842537493" TEXT="ACK"/>
 <node COLOR="#111111" CREATED="1441842494847" ID="ID_1859967109" MODIFIED="1441842497783" TEXT="NACK"/>
 </node>
@@ -2868,10 +2841,42 @@
   <body>
     <img src="imaSS828.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="14"/>
 </node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1442027883338" ID="ID_1743122020" MODIFIED="1442027913164" POSITION="right">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font size="6">Paper&#160;4.- Propagaci&#243;n de se&#241;ales</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1442027929531" HGAP="52" ID="ID_1830178833" MODIFIED="1442027976906" VSHIFT="110">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <font size="5">Se emplea en ac&#180;stica y telecomunicacixpresar ones para expresar </font>
+    </p>
+    <p>
+      <font size="5">la relaci&#243;n entre dos potencias</font>
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
 </node>
 </node>
 </node>
